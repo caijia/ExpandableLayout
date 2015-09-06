@@ -1,6 +1,8 @@
 # ExpandableLayout
 一个可以伸缩的布局<br>
 ======
+![](https://github.com/caijia/ExpandableLayout/raw/master/screenshots/b.gif)  
+
 ExpandableLayout 里面只可以放一个View(跟ScrollView类似)
 
 app:animDuration="280"  收缩 或者 展开 动画所用的时间，默认是300,单位毫秒<br>
@@ -78,6 +80,8 @@ layout.setCollapsed(position, mCollapsedStatus);
 ```Java
 layout.toggle();
 ```
+
+
 
   
   
